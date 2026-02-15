@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "odoo": {
+      "command": "/opt/mcp-odoo/venv/bin/mcp-server-odoo",
+      "env": {
+        "ODOO_URL": "http://localhost:8069",
+        "ODOO_DB": "cupsandcontainers",
+        "ODOO_USER": "admin",
+        "ODOO_PASSWORD": "Fuckoff2019!@#@#$"
+      }
+    }
+  }
+}

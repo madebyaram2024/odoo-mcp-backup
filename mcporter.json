@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "odoo": {
+      "command": "ssh",
+      "args": [
+        "root@157.180.118.183",
+        "ODOO_URL=http://localhost:8069 ODOO_DB=cupsandcontainers ODOO_USER=admin ODOO_PASSWORD='Fuckoff2019!@#@#$' /opt/mcp-odoo/venv/bin/python3 /opt/mcp-odoo/odoo_mcp_bridge.py"
+      ]
+    }
+  },
+  "imports": []
+}
